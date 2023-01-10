@@ -1,0 +1,22 @@
+#gameContainer {
+    border: 5px solid;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+#gameBoard {
+    margin: auto;
+    display: inline-block;
+    padding: 3px;
+    
+}
+
+#GameOverText {
+    position: relative;
+    z-index: 1000;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    background-color: red;
+}
